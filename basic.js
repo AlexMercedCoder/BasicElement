@@ -38,7 +38,7 @@ class BasicElement extends HTMLElement {
     }
 
     setState(newState) {
-        this.state = newState;
+        this.state = { ...this.state, ...newState };
         this.rend();
     }
 }

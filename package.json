@@ -1,0 +1,20 @@
+{
+    "name": "basicelement",
+    "version": "1.0.1",
+    "description": "The Simplest abstraction over HTMLElement adding on reactive state and nothing else. Less than 1kb.",
+    "main": "basicnpm.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/AlexMercedCoder/BasicElement.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/AlexMercedCoder/BasicElement/issues"
+    },
+    "homepage": "https://github.com/AlexMercedCoder/BasicElement#readme"
+}
