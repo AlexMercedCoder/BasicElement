@@ -40,3 +40,4 @@ Two rules in constructing a new components:
 
 1. Pass the initial state to super() in the constructor (defaults to an empty object)
 2. define a render function that returns your template string
+3. for events that need to occur after render, there is also a postRender(state, props) function you can define for that purpose
