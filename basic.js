@@ -31,10 +31,15 @@ class BasicElement extends HTMLElement {
     rend() {
         this.props = captureProps(this);
         this.shadowRoot.innerHTML = this.render(this.state, this.props);
+        this.postRender(this.state, this.props);
     }
 
     render(state, props) {
         return ``;
+    }
+
+    postRender(state, props) {
+        return null;
     }
 
     setState(newState) {
