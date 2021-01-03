@@ -1,6 +1,6 @@
 {
     "name": "basicelement",
-    "version": "1.1.1",
+    "version": "1.1.2",
     "description": "The Simplest abstraction over HTMLElement adding on reactive state and nothing else. Less than 1kb.",
     "main": "basicnpm.js",
     "scripts": {

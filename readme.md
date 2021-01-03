@@ -2,11 +2,11 @@
 
 The Simplest abstraction over HTMLElement adding on reactive state and nothing else. Less than 1kb.
 
-CDN Link: http://www.alexmercedcoder.com/basic.js (11kb)
+CDN Link: https://res.cloudinary.com/dithdroai/raw/upload/v1609690131/libraries/basic_p6rzbt.js (11kb)
 
-CDN Link (ES 6 MODULE VERSION): http://www.alexmercedcoder.com/basicmodule.js (13 kb)
+CDN Link (ES 6 MODULE VERSION): https://res.cloudinary.com/dithdroai/raw/upload/v1609690120/libraries/basicmodule_zkycnv.js (13 kb)
 
-CDN Link (Node MODULE.Exports VERSION): http://www.alexmercedcoder.com/basicnpm.js (14 kb)
+**NPM** ```npx create-basicelement-app projectName``` or to build a custom build ```npm install basicelement`
 
 ## Creating a Component
 
